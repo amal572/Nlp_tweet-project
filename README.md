@@ -6,25 +6,21 @@ this tweet collection from social media can download from "https://drive.google.
     <tr>
       <th>0</th>
       <td>logistic regression with bag of words</td>
-      <td>none</td>
       <td>0.761870</td>
     </tr>
     <tr>
       <th>1</th>
-      <td>logistic regression with bag of words</td>
-      <td>removing emojis, removing urls, remove_tweets_...</td>
+      <td>logistic regression with bag of words</td.
       <td>0.768495</td>
     </tr>
     <tr>
       <th>2</th>
       <td>logistic regression with tfidf</td>
-      <td>removing emojis, removing urls, remove_tweets_...</td>
       <td>0.768495</td>
     </tr>
     <tr>
       <th>3</th>
       <td>model using lstm and embadding with balanse</td>
-      <td>removing emojis, removing urls, remove_tweets_...</td>
       <td>0.728400</td>
     </tr>
   </tbody>
