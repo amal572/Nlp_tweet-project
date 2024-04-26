@@ -1,7 +1,10 @@
 # Nlp_tweet-project
-I try to classify the tweet as Positive about the corona vaccine (1) or negative  about the corona vaccine (2) or It has nothing to do with the Corona vaccine
-this tweet collection from social media can download from "https://drive.google.com/file/d/1KepfzAhJ7dloG8XaWQf0ovQipDHYS8aI/view?usp=sharing".
--I make visualization for data to understand it and make some text Preprocessing, then extract the Bag of words feature using CountVectorizer and use some model machine learning like LogisticRegression as a baseline then using some deep learning model.
+I try to classify the tweet as 
+1- Positive about the corona vaccine 
+2- negative  about the corona vaccine 
+3- It has nothing to do with the Corona vaccine
+this tweet collection from social media can be downloaded from "https://drive.google.com/file/d/1KepfzAhJ7dloG8XaWQf0ovQipDHYS8aI/view?usp=sharing".
+I make visualization for data to understand it and make some text Preprocessing, then extract the Bag of Words feature using CountVectorizer and use some model machine learning like LogisticRegression as a baseline then use some deep learning model.
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
